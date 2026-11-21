@@ -22,8 +22,8 @@ Independent creator, and a creator partner at WalletConnect. Previously design a
 ## Projects
 
 <p align="center">
-  <a href="https://aish-os.vercel.app/hello"><img src="cards/aish-os.svg" alt="AISH.OS — an interactive XP-style microsite" width="32%" /></a>&nbsp;
   <a href="https://aishwaryadeyy.com"><img src="cards/portfolio.svg" alt="Portfolio — selected creator work for tech brands" width="32%" /></a>&nbsp;
+  <a href="https://aish-os.vercel.app/hello"><img src="cards/aish-os.svg" alt="AISH.OS — an interactive XP-style microsite" width="32%" /></a>&nbsp;
   <a href="https://content-journal.vercel.app"><img src="cards/content-journal.svg" alt="Content Journal — journal your day, get content ideas" width="32%" /></a>
 </p>
 
